@@ -1,1 +1,1 @@
-# netcklicks_js
+Учебный проект Netclicks. Работа с JS и API.
